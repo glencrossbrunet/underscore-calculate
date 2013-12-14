@@ -1,5 +1,5 @@
 // Underscore Calculate v0.0.3
-// (c) 2013 MIT License
+// MIT License
 
 _.mixin({
   
