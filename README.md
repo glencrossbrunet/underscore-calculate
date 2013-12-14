@@ -1,4 +1,4 @@
-# underscore-calculate
+# underscore-calculate ![Build Status](https://travis-ci.org/glencrossbrunet/underscore-calculate.png?branch=master)
 
 The calculation methods are inspired from Rails. Calculations only consider numbers, and return `undefined` if the collection doesn't include any numbers. That means the sum of `[]` is `undefined`.
 
@@ -54,7 +54,11 @@ Under the hood, all methods use a calculate method that selects only numbers and
 
 ### Notes
 
-To use underscore-calculate, copy the `underscore.calculate.js` file into your project and include it after underscore. 
+To use underscore-calculate, copy the `underscore.calculate.js` file into your project and include it after underscore. It's also available via bower.
+
+```
+$ bower install underscore-calculate
+```
 
 License: MIT
 
