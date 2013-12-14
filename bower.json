@@ -1,16 +1,19 @@
 {
   "name": "underscore-calculate",
   "version": "0.0.1",
-  "authors": [
-    "aj0strow <alexander.ostrow@gmail.com>"
-  ],
+  "main": "underscore.calculate.js",
+  "homepage": "http://github.com/glencrossbrunet/underscore-calculate",
+  "keywords": [ "underscore", "_", "calculate", "sum", "average" ],
+  "authors": [ "aj0strow" ],
   "license": "MIT",
   "private": true,
   "ignore": [
     "**/.*",
     "bower_components",
     "node_modules",
-    "spec"
+    "spec",
+    "Gruntfile.js",
+    ".gitignore"
   ],
   "dependencies": {
     "underscore": "~1.5.2"
