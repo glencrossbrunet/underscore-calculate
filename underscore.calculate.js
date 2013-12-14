@@ -1,4 +1,4 @@
-// Underscore Calculate v0.0.0
+// Underscore Calculate v0.0.1
 // (c) 2013 MIT License
 
 _.mixin({
