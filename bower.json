@@ -1,12 +1,11 @@
 {
   "name": "underscore-calculate",
-  "version": "0.0.1",
+  "version": "0.0.2",
   "main": "underscore.calculate.js",
   "homepage": "http://github.com/glencrossbrunet/underscore-calculate",
   "keywords": [ "underscore", "_", "calculate", "sum", "average" ],
   "authors": [ "aj0strow" ],
   "license": "MIT",
-  "private": true,
   "ignore": [
     "**/.*",
     "bower_components",
