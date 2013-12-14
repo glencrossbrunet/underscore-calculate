@@ -1,6 +1,6 @@
 {
   "name": "underscore-calculate",
-  "version": "0.0.2",
+  "version": "0.0.3",
   "main": "underscore.calculate.js",
   "homepage": "http://github.com/glencrossbrunet/underscore-calculate",
   "keywords": [ "underscore", "_", "calculate", "sum", "average" ],
